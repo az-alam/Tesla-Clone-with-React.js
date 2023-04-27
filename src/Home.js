@@ -14,7 +14,7 @@ function Home() {
     arrow={true}
     background="model-3.jpg"
     />
-    <Section id="y"
+    <Section
     name="Model Y"
     tagline="Order Oline for touchless delivery"
     leftbtn="Order Now"
@@ -43,7 +43,7 @@ function Home() {
     tagline="Lower Cost Solar Panels in India"
     leftbtn="Order Now"
     rightbtn="Learn More"
-    background="solar-panels.jpg"
+    background="solar-panel.jpg"
     />
     <Section
     name="Solar Roof"
